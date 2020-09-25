@@ -19,4 +19,8 @@ Adicionar todos os arquivos
 
 ########Commit #######################
 Comitar um arquivo
-#git commit file.txt
+
+
+#########Enviar Arquivo#####################
+git push origin mybranch
+
