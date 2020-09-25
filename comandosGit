@@ -1,0 +1,22 @@
+Comandos git.:
+
+###########Ver e listar##################
+Verificar Status dos Arquivos
+#git status
+
+Listar branches com informações dos últimos commits
+#git branch -v
+
+
+##########Adicionar#####################
+Adicionar um arquivo em específico
+#git add file.txt
+
+Adicionar todos os arquivos
+#git add *
+#git add .
+
+
+########Commit #######################
+Comitar um arquivo
+#git commit file.txt
